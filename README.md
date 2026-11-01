@@ -1,6 +1,7 @@
 # free-mac-cleaner
 its a mac cleaning tools for free, enjoy!
-download the free-mac-cleaner zip file
+download the free-mac-cleaner zip file 
+
 In Terminal, type this and press Enter:
    cd /Users/admin/Downloads/FreeMacCleaner-Native
 
